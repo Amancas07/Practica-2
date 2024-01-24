@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 5px;
+    background-color: darkgrey;
+}
+h1{
+    color: blue;
+    text-align: center;
+}
+h2{
+    color: blueviolet;
+    background-color: darkgrey;
+}
+strong{
+    color: cadetblue;
+}
+em{
+    color: brown;
+}
+p{
+    text-align: justify;
+    text-indent: 45px;
+    font-size: 20px;
+}
